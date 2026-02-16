@@ -20,8 +20,9 @@ To develop an Android application that can enable Bluetooth, discover devices, c
 5. Establish connection (RFCOMM)
 6. Send/Receive simple text
 
-## Results
-(Add screenshots)
+
+
 
 ## Conclusion
-(What you learned)
+
+The Bluetooth application was successfully implemented, enabling device discovery, pairing, and simple data transfer between mobile devices. This experiment helped us understand Android’s Bluetooth APIs and strengthened our practical skills in wireless communication. Overall, it demonstrated how Bluetooth can be used for real-time, short-range connectivity in mobile computing.
