@@ -1,0 +1,25 @@
+com.example.exp5
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addBtn
+id age
+id listView
+id name
+id studentAge
+id studentId
+id studentName
+layout activity_main
+layout student_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme_Exp5
+xml backup_rules
+xml data_extraction_rules
